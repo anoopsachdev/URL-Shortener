@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# environment variables (VERY IMPORTANT)
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# build folders
+dist/
+build/
+
+# redis dump
+dump.rdb
